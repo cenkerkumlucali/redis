@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "UkY/0iwTDXcrwT6u4T/KDRPjIfpbEspWudH6BAGvWOA=",
+  "Source": "InMemory.Caching",
+  "BasePath": "_content/InMemory.Caching",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

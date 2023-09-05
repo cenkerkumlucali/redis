@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Dn8FGdU5K3FgzDEPimpg+HLbqsZMUzklX/4QtOIjRwCj4eU74LvBRqrTFmajKIbPUjyqLNT82af0qmE9PuRxHw==",
+  "success": true,
+  "projectFilePath": "/Volumes/T7/T7-Codes/redis/Publisher/Publisher.csproj",
+  "expectedPackageFiles": [
+    "/Users/cenkerkumlucali/.nuget/packages/pipelines.sockets.unofficial/2.2.8/pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "/Users/cenkerkumlucali/.nuget/packages/stackexchange.redis/2.6.122/stackexchange.redis.2.6.122.nupkg.sha512",
+    "/Users/cenkerkumlucali/.nuget/packages/system.io.pipelines/5.0.1/system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
